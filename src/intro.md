@@ -8,7 +8,13 @@ This guide is designed for someone who has taken an introductory photography cou
 
 - A basic understanding of composition
 - A working understanding of manual camera operation (exposure, focus, ect.)
-- Basic knowledge of photography terminology. See the [glossary](./glossory.md) if needed.
+- Basic knowledge of photography terminology. See the [glossary](./glossory.md) if needed
+- Basic photo editing skills
+
+## What does this guide not cover?
+
+This guide will only cover technical problems that may occur up to taking a landscape photo.
+Discussions on topics such as composition, travel planning, and photo editing are outside the scope of this guide.
 
 ## Required equipment
 

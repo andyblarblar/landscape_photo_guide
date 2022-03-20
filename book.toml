@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "A Technical Guide to Landscape Photography"
+
+[output.html]
+
+#[output.pdf]

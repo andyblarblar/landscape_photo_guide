@@ -11,3 +11,4 @@ Once you have found a landscape you wish to photograph, your first step will be 
 | Far mountains              | 100+mm           | Telephoto      |
 | Forest or mid-range terrain | 24-70mm          | Zoom/Standard  |
 | Large, close object        | 10-20mm          | Wide angle     |
+| Astrophotography (stars)        | <18mm          | Ultra-wide angle     |

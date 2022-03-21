@@ -9,4 +9,5 @@
     - [Dealing With Motion](./dealing_with_motion.md)
     - [Working *With* Motion](./working_with_motion.md)
 
+-[FAQ](./faq.md)
 -[Glossary](./glossory.md)

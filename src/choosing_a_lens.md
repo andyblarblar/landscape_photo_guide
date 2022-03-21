@@ -1,6 +1,6 @@
 # Choosing a Lens 
 
-Once you have found a landscape you wish to photograph, your first step will be to choose a lens to use. Each type of camera lens provides a unique view of the same landscape, influencing the way you will approch the rest of the photo. As such, the 'correct' lens for landscape photography will depend on what you aim to photograph. The following table provides a brief overview of conventional lens choice:
+Once you have found a landscape you wish to photograph, your first step will be to choose a lens to use. Each type of camera lens provides a unique view of the same landscape, influencing the way you will approach the rest of the photo. As such, the 'correct' lens for landscape photography will depend on what you aim to photograph. The following table provides a brief overview of conventional lens choice:
 
 > **Note:** 
 >

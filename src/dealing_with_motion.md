@@ -9,7 +9,7 @@ Unfortunately, there is often no way to eliminate these issues, as something lik
 As a general rule, it is best to keep your shutter speed and apature high to reduce both motion blur and focus blur. In a particularly windy environment however, it may be necessary to raise the shutter speed even further than normal. To do this, you have two options:
 
 1. Raise the ISO and shutter speed by equal values.
-2. Lower the apaure and raise the shutter speed by equal values.
+2. Lower the apature and raise the shutter speed by equal values.
 
 Neither of these two options are ideal, as they will reduce the overall quality of the image by introducing noise and blur respectively. However, in a windy environment, you may deem the trade-off worth it to reduce motion blur.
 

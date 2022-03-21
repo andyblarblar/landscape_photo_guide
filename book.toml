@@ -7,4 +7,4 @@ title = "A Technical Guide to Landscape Photography"
 
 [output.html]
 
-#[output.pdf]
+[output.pdf]

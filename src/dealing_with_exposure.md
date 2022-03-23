@@ -1,4 +1,4 @@
-# Dealing With Exposure
+# Dealing with Exposure
 
 Because landscapes often feature elevation and natural lighting, having both a backlit subject and a subject in shadow is common. This can pose a challenge when determining a neutral exposure, as some areas of the image may be too bright or dark when other areas are correctly exposed. Thankfully, there are a few techniques that can help overcome this issue.
 
@@ -26,9 +26,9 @@ HDR itself is a software technique, so we will focus on obtaining the sequence o
 
 The easiest way to take this sequence of photos is using a function called bracketing, which is available in most cameras. Bracketing does exactly what you need to do - take a sequence of photos with varying exposure.
 
-Bracketing functions differently on different camera models, so you will need to consult your cameras manual to enable its use.
+Bracketing functions differently on different camera models, so you will need to consult your camera's manual to enable its use.
 
-When enabled, simply set a neutral exposure when setting up your photo. Next, simply activate the bracketing and shoot until the sequence is complete. From here, you can feed this sequence into an HDR processor when editing later.
+When enabled, set a neutral exposure when setting up your photo. Next, activate the bracketing and shoot until the sequence is complete. From here, you can feed this sequence into an HDR processor while editing.
 
 ### Manual Offseting
 
@@ -37,7 +37,7 @@ If you cannot use bracketing for whatever reason, then you will need to change e
 A simple method to do this is as follows:
 
 1. **Find a neutral exposure for the image.**
-2. **Take a photo at this neutral exposure.** It's a good idea to [check your focus](./focusing.md) here, if you haven't done so already.
+2. **Take a photo at this neutral exposure.** [Check your focus](./focusing.md) now, if you haven't done so already.
 3. **Move the shutter speed up by a stop, and take a photo.** This should be darker than the original photo.
 4. **Move the shutter speed down a stop from the neutral image, and take a photo.** This should be a bit brighter than the original photo.
 4. **(Optional) Repeat the process with increasing stop distances to get more data.** This can allow for greater flexibility when editing, if desired.

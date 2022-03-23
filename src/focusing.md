@@ -1,4 +1,4 @@
-# Dealing with focus
+# Dealing with Focus
 
 When taking a landscape photo, focus is very important. If it is off, then one of your fore, mid, or background will be blurry. This is often very visible in the final print, but may be less so on the camera's lcd. Because of this, you must take extra care to ensure correct focus in the field. 
 

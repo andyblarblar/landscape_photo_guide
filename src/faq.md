@@ -8,7 +8,7 @@ This isn't to say you cannot use a phone for landscape photography, it's just go
 
 Most of this guide can still apply to phones, although you may need to look up workarounds to the lack of specific features.
 
-## Landscapes are so cool, but I live in the middle of american suburbia! How can I find somewhere interesting?
+## Landscapes are so cool, but I live in the middle of American suburbia! How can I find somewhere interesting?
 
 I've found two ways to get around this issue. First, don't underestimate how nice even just a local park can look under interesting weather. I've gotten some of my best photos just walking around in fog. Second, check if there's a state park or recreation area within a reasonable driving distance. I've found that most people have at least one of these within an hours drive. While it may not be particularly spectacular, these parks will give a great practice opportunity for when you do get to go on a more extravagant trip.
 

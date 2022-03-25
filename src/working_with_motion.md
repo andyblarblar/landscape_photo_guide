@@ -20,7 +20,7 @@ When rasing your shutter speed to very high values, you may notice your image ge
 
 If for whatever reason the above two tips aren't feasible, there is an alternate technique that allows for the use of *any* shutter speed, while still getting blur. 
 
-As mentioned in the [motion reduction section](./dealing_with_motion.md), merging a sequence of images also merges those images blur. This means that if you have enough images, you can emulate a longer shutter speed by merging a sequence of photos with a smaller one! This has a few main benefits:
+As mentioned in the [motion reduction section](./dealing_with_motion.md), merging a sequence of images also merges those images' blur. This means that if you have enough images, you can emulate a longer shutter speed by merging a sequence of photos with a smaller one! This has a few main benefits:
 
 - This can be used handheld, no tripod needed
 - This can be done without filters, as you can simply use a neutral exposure

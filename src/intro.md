@@ -12,7 +12,7 @@ This guide is designed for someone who has taken an introductory photography cou
 
 ## What does this guide not cover?
 
-Discussions on topics such as composition, travel planning, and photo editing are outside the scope of this guide.
+Discussion of topics such as composition, travel planning, and photo editing are outside the scope of this guide.
 
 ## Required equipment
 
